@@ -133,11 +133,11 @@ a:visited {
   height: 400px;
 }
 #robin-pahlman-cover {
-    background-image: url("http://imgur.com/a/eiSaU");
+    background-image: url("http://i.imgur.com/39dIGcS.jpg");
 }
 
 #robin-pahlman-card {
-    background-image: url("http://imgur.com/gX3nnpB");
+    background-image: url("http://i.imgur.com/gX3nnpB.jpg");
 }
 #aly-alidina-cover {
     background-image: url("http://imgur.com/ucFtuBt.jpg");
@@ -1091,14 +1091,6 @@ a:visited {
   -o-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
-}
-
-#robin-pahlman-cover {
- background-image: url("http://imgur.com/a/eiSaU");
-}
-
-#robin-pahlman-card {
- background-image: url("http://imgur.com/a/UyHDc");
 }
 
 #luke-grecki-cover {
