@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#robin-pahlman-cover {
+    background-image: url("http://imgur.com/a/eiSaU");
+}
+
+#robin-pahlman-card {
+    background-image: url("http://imgur.com/gX3nnpB");
+}
 #aly-alidina-cover {
     background-image: url("http://imgur.com/ucFtuBt.jpg");
 }
